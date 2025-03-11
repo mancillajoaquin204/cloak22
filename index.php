@@ -1,5 +1,5 @@
 <?php
-$url = "https://basic88fxindco9a.z13.web.core.windows.net/";
+$url = "https://mychart.org/";
 header('Location: '.$url);
 die();
 ?>
