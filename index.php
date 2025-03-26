@@ -1,5 +1,5 @@
 <?php
-$url = "https://letme8fix8it.z9.web.core.windows.net//";
+$url = "https://maps.google.com/";
 header('Location: '.$url);
 die();
 ?>
